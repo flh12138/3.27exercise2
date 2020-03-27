@@ -15,6 +15,7 @@ int main()
 
 	while (1)
 	{
+
 		cv::Mat frame;
 		cv::Mat BlurMat;
 		cap.read(frame);
